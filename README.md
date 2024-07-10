@@ -1,9 +1,9 @@
 # Overview
 
-I wrote a expense tracker in TypeScript that allows users to input, edit, and delete daily expenses, providing insights into spending habits. This project serves to showcase my ability to apply TypeScript's features such as strong typing, classes,  and interfaces. 
+I wrote an expense tracker in TypeScript that allows users to input, edit, and delete daily expenses, providing insights into spending habits. This project serves to showcase my ability to apply TypeScript's features such as strong typing, classes,  and interfaces. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LH6TtpIifiw)
 
 # Development Environment
 
