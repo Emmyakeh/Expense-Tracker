@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-07-15",
+    "category": "Groceries",
+    "amount": 50
+  },
+  {
+    "date": "2024-07-10",
+    "category": "dining",
+    "amount": 50
+  },
+  {
+    "date": "2024-07-16",
+    "category": "Transportation",
+    "amount": 20
+  },
+  {
+    "date": "2024-06",
+    "category": "grocery",
+    "amount": null
+  },
+  {
+    "date": "2024-07-10",
+    "category": "grocery",
+    "amount": 90
+  }
+]
